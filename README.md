@@ -11,5 +11,20 @@ List of features:
 - Basic water system with environmental effects (post-processing shader and swimming mechanics)
 - Debugging tools
 - Save system
+- Building/Destroing blocks
 
 The mesh is generated using Unreals `UProceduralMeshComponent`. Noise textures are generated using [FastNoiseLite](https://github.com/Auburn/FastNoiseLite).
+
+![Screenshot from the game.](/Images/Minecraft.png)
+
+This is by no means a finished game and there are a lot of things that would be nice to implement, like: 
+- Add NPCs
+- Add full inventory
+- Ability to pickup destroyed blocks
+- Add multiplayer support
+- Trees
+- Biomes
+
+And the list can go on and on...
+
+Additionally, there are several areas I would like to revisit, such as leveraging Curve Tables for terrain generation settings, improving the connection between game logic and UI, and generally applying best UE practices I’ve learned since I stopped working on this project. That said, I’m still quite happy with what I achieved overall.
