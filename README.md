@@ -28,3 +28,5 @@ This is by no means a finished game and there are a lot of things that would be 
 And the list can go on and on...
 
 Additionally, there are several areas I would like to revisit, such as leveraging Curve Tables for terrain generation settings, improving the connection between game logic and UI, and generally applying best UE practices I’ve learned since I stopped working on this project. That said, I’m still quite happy with what I achieved overall.
+
+https://github.com/user-attachments/assets/80f12ac2-ebe1-4d98-92fa-7a3f5c859842
